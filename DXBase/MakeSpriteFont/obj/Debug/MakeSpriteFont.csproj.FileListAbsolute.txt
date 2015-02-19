@@ -1,0 +1,20 @@
+D:\RobHopps\DXBase\DXBase\MakeSpriteFont\bin\Debug\MakeSpriteFont.exe
+D:\RobHopps\DXBase\DXBase\MakeSpriteFont\bin\Debug\MakeSpriteFont.pdb
+D:\RobHopps\DXBase\DXBase\MakeSpriteFont\obj\Debug\MakeSpriteFont.csprojResolveAssemblyReference.cache
+D:\RobHopps\DXBase\DXBase\MakeSpriteFont\obj\Debug\MakeSpriteFont.exe
+D:\RobHopps\DXBase\DXBase\MakeSpriteFont\obj\Debug\MakeSpriteFont.pdb
+C:\Users\Rob\Desktop\SimWorlds Water\DXBase\DXBase\MakeSpriteFont\bin\Debug\MakeSpriteFont.exe
+C:\Users\Rob\Desktop\SimWorlds Water\DXBase\DXBase\MakeSpriteFont\bin\Debug\MakeSpriteFont.pdb
+C:\Users\Rob\Desktop\SimWorlds Water\DXBase\DXBase\MakeSpriteFont\obj\Debug\MakeSpriteFont.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\SimWorlds Water\DXBase\DXBase\MakeSpriteFont\obj\Debug\MakeSpriteFont.exe
+C:\Users\Rob\Desktop\SimWorlds Water\DXBase\DXBase\MakeSpriteFont\obj\Debug\MakeSpriteFont.pdb
+D:\rob\SimWorlds Water\DXBase\MakeSpriteFont\bin\Debug\MakeSpriteFont.exe
+D:\rob\SimWorlds Water\DXBase\MakeSpriteFont\bin\Debug\MakeSpriteFont.pdb
+D:\rob\SimWorlds Water\DXBase\MakeSpriteFont\obj\Debug\MakeSpriteFont.csprojResolveAssemblyReference.cache
+D:\rob\SimWorlds Water\DXBase\MakeSpriteFont\obj\Debug\MakeSpriteFont.exe
+D:\rob\SimWorlds Water\DXBase\MakeSpriteFont\obj\Debug\MakeSpriteFont.pdb
+F:\SimWorlds\Water\DXBase\MakeSpriteFont\bin\Debug\MakeSpriteFont.exe
+F:\SimWorlds\Water\DXBase\MakeSpriteFont\bin\Debug\MakeSpriteFont.pdb
+F:\SimWorlds\Water\DXBase\MakeSpriteFont\obj\Debug\MakeSpriteFont.csprojResolveAssemblyReference.cache
+F:\SimWorlds\Water\DXBase\MakeSpriteFont\obj\Debug\MakeSpriteFont.exe
+F:\SimWorlds\Water\DXBase\MakeSpriteFont\obj\Debug\MakeSpriteFont.pdb

@@ -1,0 +1,17 @@
+﻿Build started 19/02/2015 16:05:07.
+     1>Project "D:\ROB\New folder\DXBase\XWBTool\xwbtool_Desktop_2013.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\Audio /I..\Src /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _WIN32_WINNT=0x0600 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\ROB\New folder\DXBase\xwbtool\bin\Debug\\" /Fd"D:\ROB\New folder\DXBase\xwbtool\bin\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Audio\WAVFileReader.cpp xwbtool.cpp
+         xwbtool.cpp
+         WAVFileReader.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ROB\New folder\DXBase\xwbtool\bin\Debug\XWBTool.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\ROB\New folder\DXBase\xwbtool\bin\Debug\XWBTool.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ROB\New folder\DXBase\xwbtool\bin\Debug\XWBTool.lib" /MACHINE:X86 "D:\ROB\New folder\DXBase\xwbtool\bin\Debug\WAVFileReader.obj"
+         "D:\ROB\New folder\DXBase\xwbtool\bin\Debug\xwbtool.obj"
+         LINK : D:\ROB\New folder\DXBase\xwbtool\bin\Debug\XWBTool.exe not found or not built by the last incremental link; performing full link
+         xwbtool_Desktop_2013.vcxproj -> D:\ROB\New folder\DXBase\xwbtool\bin\Debug\XWBTool.exe
+     1>Done Building Project "D:\ROB\New folder\DXBase\XWBTool\xwbtool_Desktop_2013.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.29

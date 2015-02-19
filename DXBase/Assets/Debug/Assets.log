@@ -1,0 +1,14 @@
+﻿Build started 19/02/2015 12:06:01.
+     1>Project "D:\ROB\New folder\DXBase\Assets\Assets.vcxproj" on node 5 (Build target(s)).
+     1>_ImageContentTask:
+         grass.jpg
+         white.jpg
+         logo.png
+       _MeshContentTask:
+         table.FBX
+         treasure_chest.FBX
+     1>Done Building Project "D:\ROB\New folder\DXBase\Assets\Assets.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07

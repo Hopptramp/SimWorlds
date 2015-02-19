@@ -1,0 +1,42 @@
+﻿Build started 19/02/2015 17:53:29.
+     1>Project "D:\ROB\New folder\DXBase\Game\Tutorial01.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\Inc /I..\DXUT\Core /I..\DXUT\Optional /ZI /nologo /W4 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PROFILE /D _WINDOWS /D _WIN32_WINNT=0x0600 /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /openmp- /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt  DynamicCube.cpp
+         DynamicCube.cpp
+     1>d:\rob\new folder\dxbase\game\constantbuffer.h(23): warning C4324: 'ConstantBuffer' : structure was padded due to __declspec(align())
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>d:\rob\new folder\dxbase\game\dynamiccube.cpp(21): warning C4244: '=' : conversion from 'int' to 'WORD', possible loss of data
+     1>d:\rob\new folder\dxbase\game\dynamiccube.cpp(54): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rob\new folder\dxbase\game\dynamiccube.cpp(56): warning C4244: 'initializing' : conversion from 'int' to 'WORD', possible loss of data
+     1>d:\rob\new folder\dxbase\game\dynamiccube.cpp(57): warning C4244: 'initializing' : conversion from 'int' to 'WORD', possible loss of data
+     1>d:\rob\new folder\dxbase\game\dynamiccube.cpp(58): warning C4244: 'initializing' : conversion from 'int' to 'WORD', possible loss of data
+     1>d:\rob\new folder\dxbase\game\dynamiccube.cpp(128): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\rob\new folder\dxbase\game\dynamiccube.cpp(185): warning C4100: 'gd' : unreferenced formal parameter
+     1>d:\rob\new folder\dxbase\game\dynamiccube.cpp(199): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\rob\new folder\dxbase\game\dynamiccube.cpp(201): warning C4244: 'initializing' : conversion from 'int' to 'WORD', possible loss of data
+     1>d:\rob\new folder\dxbase\game\dynamiccube.cpp(202): warning C4244: 'initializing' : conversion from 'int' to 'WORD', possible loss of data
+     1>d:\rob\new folder\dxbase\game\dynamiccube.cpp(203): warning C4244: 'initializing' : conversion from 'int' to 'WORD', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ROB\New folder\DXBase\Debug\Game.exe" /INCREMENTAL /NOLOGO d3d11.lib d3dcompiler.lib dxguid.lib winmm.lib comctl32.lib DirectXTK.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib DXUT.lib DXUTOpt.lib usp10.lib dinput8.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\ROB\New folder\DXBase\Debug\Game.pdb" /SUBSYSTEM:WINDOWS /LARGEADDRESSAWARE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ROB\New folder\DXBase\Debug\Game.lib" /MACHINE:X86 /SAFESEH  Debug\Tutorial01.res
+         Debug\camera.obj
+         Debug\CMOGO.obj
+         Debug\DynamicCube.obj
+         Debug\DynamicVB.obj
+         Debug\fileVBGO.obj
+         Debug\game.obj
+         Debug\gameobject.obj
+         Debug\GameObject2D.obj
+         Debug\light.obj
+         Debug\snail.obj
+         Debug\terrain.obj
+         Debug\tpscamera.obj
+         Debug\turret_base.obj
+         Debug\Tutorial01.obj
+         Debug\VBCube.obj
+         Debug\VBGO.obj
+         Tutorial01.vcxproj -> D:\ROB\New folder\DXBase\Debug\Game.exe
+     1>Done Building Project "D:\ROB\New folder\DXBase\Game\Tutorial01.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.70
